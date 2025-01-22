@@ -47,4 +47,4 @@ We welcome contributions to this project! If you have an idea for a new componen
 While this repository is private, the project itself is public and intended to help other developers. We encourage you to explore, learn from, and contribute to this project.
 
 
-This is a **WORKING PROGRESS** file
+This is a **WORKING PROGRESS ...** file
